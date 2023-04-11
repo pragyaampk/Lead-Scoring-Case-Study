@@ -4,15 +4,6 @@ An education company named X Education sells online courses to industry professi
 ## Steps Followed
 Reading Data
 Cleaning Data
-EDA
-Creating Dummy
-Splitting data into train and test set
-Building Model
-Making Predictions
-Model Evaluation
-ROC Curve
-Prediction on test set
-Precision- Recall
 ## Details of files given
 Lead Score Case Study Aayushi Meenu .ipynb : The python file showing coding and data analysis
 Assignment Subjective Questions.pdf : Some subjective questions answered
